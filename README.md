@@ -194,7 +194,7 @@ Separation of concerns — each layer has one job. Makes code testable, maintain
 B.Tech IT Final Year Student
 
 [![GitHub](https://img.shields.io/badge/GitHub-Itzzsaurabh-black)](https://github.com/Itzzsaurabh)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-saurabh-gupta-98a719232-blue)](https://www.linkedin.com/in/saurabh-gupta-98a719232/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-connect-blue)](https://www.linkedin.com/in/saurabh-gupta-98a719232/)
 
 ---
 
